@@ -1,5 +1,5 @@
 ### OWASP DevSecOps Top 10
-* Lab Project</span>
+* Incubator Project</span>
 
 #### Classification
 
