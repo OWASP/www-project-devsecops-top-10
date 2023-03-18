@@ -1,6 +1,6 @@
 ---
 title: roadmap
-displaytext: Roadmap 2023
+displaytext: Roadmap
 layout: col-sidebar
 tab: true
 order: 3
