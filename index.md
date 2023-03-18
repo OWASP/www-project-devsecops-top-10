@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP DevSecOps Top 10
-tags: example-tag
+tags: devsecops, top10, devops, owasp
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: documentation
+pitch: Top 10 categories for your DevSecOps Landscape
 
 ---
 ## **Work in Progress for Structuring the Project Page
