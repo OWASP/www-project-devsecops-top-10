@@ -10,7 +10,7 @@ pitch: Top 10 categories for your DevSecOps Landscape
 ---
 <h1> Open Worldwide Application Security Project® </h1>
 
-## **Work in Progress for Structuring the Project Page
+#### **Work in Progress for Structuring the Project Page
 
 <h1>Introduction</h1>
 DevSecOps is an approach to software development that combines development, security, and operations (hence the name) into a single, continuous process. It aims to integrate security measures throughout the entire software development lifecycle, from planning and design to deployment and maintenance.
