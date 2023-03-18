@@ -1,10 +1,10 @@
 ### OWASP DevSecOps Top 10
 * <i class="fas fa-circle fa-stack" style="font-size: 1.3em; color:#f7b73c;"></i>
   <span style="font-size: 1.3em;">Lab Project</span>
-  
-  <span class="fa-stack fa-2x">
-    <i class="fas fa-circle fa-stack-2x" style="color:#53AAE5 style="font-size: 1.3em;"></i>
-    <i class="fas fa-egg fa-stack-1x fa-inverse"></i> Incubator Project </span>
+* Incubator Projects <span class="fa-stack ">
+        <i class="fas fa-circle " style="color:#53AAE5"></i>
+        <i class="fas fa-egg fa-stack-1x fa-inverse"></i>
+        </span>
 
 #### Classification
 
