@@ -8,6 +8,8 @@ type: documentation
 pitch: Top 10 categories for your DevSecOps Landscape
 
 ---
+<h1> Open Worldwide Application Security Project® </h1>
+
 ## **Work in Progress for Structuring the Project Page
 
 <h1>Introduction</h1>
