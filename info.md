@@ -1,5 +1,5 @@
 ### OWASP DevSecOps Top 10
-* <i class="fas fa-circle fa-stack" style="font-size: 1.3em; color:#f7b73c;"></i>
+* <i class="fas fa-circle fa-stack" color:#f7b73c;"></i>
   <span style="font-size: 1.3em;"> Lab Project </span>
 
 #### Classification
