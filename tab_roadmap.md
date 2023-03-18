@@ -1,6 +1,6 @@
 ---
-title: Roadmap
-layout:  null
+title: roadmap
+layout: col-sidebar
 tab: true
 order: 2
 tags: roadmap, devsecops, top10, devops
