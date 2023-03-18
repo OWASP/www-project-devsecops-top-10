@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP DevSecOps Top 10
-tags: devsecops, top10, devops, owasp
-level: 2
+tags: devsecops, top10, devops, owasp, devsecops-top-10
+level: 3
 type: documentation
 pitch: Top 10 categories for your DevSecOps Landscape
 
