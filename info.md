@@ -1,17 +1,24 @@
-### DevSecOps Top 10 Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+### OWASP DevSecOps Top 10
+* <i class="fas fa-flask" style="font-size: 1.3em; color:#f7b73c;"></i>
+  <span style="font-size: 1.3em;">Lab Project</span>
+
+#### Classification
+
+* <i class="fas fa-file-alt" style="color:#233e81;"></i> Documentation
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](#) - TBD
 
 ### Code Repository
-* [repo](#)
+* [GitHub Repo](https://github.com/OWASP/www-project-devsecops-top-10)
+
 
 ### Change Log
-* [changes](#)
+* [changes] - TBD
 
