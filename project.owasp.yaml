@@ -1,0 +1,23 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Milan Singh Thakur
+    email: milan@owasp.org
+    github: milanowasp
+level: 2
+name: OWASP DevSecOps Top 10
+pitch: Top 10 categories for your DevSecOps Landscape
+repositories:
+  - name: www-project-devsecops-top-10
+    url: https://github.com/OWASP/www-project-devsecops-top-10
+    description: OWASP Foundation Web Repository
+tags:
+  - devsecops
+  - top10
+  - devops
+  - owasp
+  - devsecops-top-10
+type: documentation
+website: https://owasp.org/www-project-devsecops-top-10
